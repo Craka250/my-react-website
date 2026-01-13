@@ -132,14 +132,3 @@ footer {
   margin-bottom: 15px;
   border-radius: 50px;
   }
-.card .card-image.large {
-  max-width: 100%;
-}
-
-.card .card-content {
-  margin-top: 10px;
-}
-.card .card-actions {
-  margin-top: 15px;
-  text-align: right;
-}
