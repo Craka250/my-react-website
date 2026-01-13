@@ -18,6 +18,7 @@ function Food () {
             <li>Greens</li>
             <li>Beef</li>
             <li>Fruits</li>
+            <li>Water</li>
             {/* <li>{foodItem3}</li> */}
         </ul>
 
