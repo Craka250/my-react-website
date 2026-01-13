@@ -1,6 +1,7 @@
 import Header from "./Header.tsx";
 import Footer from "./Footer.tsx";
 import Food from "./Food.tsx";
+import Card from "./Card.tsx";
 
 
 function App() {
@@ -10,6 +11,7 @@ function App() {
 	<div> {/* Used for fragment-like wrapper */}
 	  <Header />
     <Food />
+    <Card />
     <Footer />
 	</div>
 
